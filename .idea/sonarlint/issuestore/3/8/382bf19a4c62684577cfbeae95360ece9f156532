@@ -1,0 +1,33 @@
+
+h
+java:S3776="RRefactor this method to reduce its Cognitive Complexity from 93 to the 15 allowed.(§¥ş
+n
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“ÖÜİûÿÿÿÿ
+E
+java:S1481Æ")Remove this unused "cCol" local variable.(Üñ’ßûÿÿÿÿ
+E
+java:S1481Ç")Remove this unused "cRow" local variable.(éŞªøÿÿÿÿ
+t
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
+t
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+t
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+t
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
+t
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
+u
+java:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÅÙ¨úÿÿÿÿ
+u
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ–¥™ÿÿÿÿÿ
